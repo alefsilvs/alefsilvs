@@ -11,7 +11,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-   <img 
+   
+  <br>
+  <br>
+  
+  <img 
     align="left" 
     alt="Python"
     title="Python" 

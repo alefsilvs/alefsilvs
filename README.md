@@ -20,55 +20,55 @@
     alt="Python"
     title="Python" 
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="center" 
     alt="Django" 
     title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="center" 
     alt="Django" 
     title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
     align="center" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
     align="center" 
     alt="FastApi"
     title="FastApi" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
 <img 
     align="center" 
     alt="React" 
     title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
 <img 
     align="center" 
     alt="Angular"
     title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
 

@@ -16,7 +16,7 @@
   <br>
   
   <img 
-    align="center" 
+    align="left 10px" 
     alt="Python"
     title="Python" 
     width="30px" 
